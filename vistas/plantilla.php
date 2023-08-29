@@ -9,9 +9,9 @@
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="http://localhost/gestion_solicitudes/vistas/plugins/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="vistas/plugins/fontawesome-free/css/all.min.css">
     <!-- Theme style -->
-    <link rel="stylesheet" href="http://localhost/gestion_solicitudes/vistas/dist/css/adminlte.min.css">
+    <link rel="stylesheet" href="vistas/dist/css/adminlte.min.css">
 </head>
 
 
